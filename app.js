@@ -9,6 +9,7 @@ function agregarAmigo(){
         nombres.push(inputNombre);
         console.log(nombres);
         document.querySelector("#amigo").value = "";
+        resultado.innerHTML = "";
         listaAmigos.innerHTML = nombres.join("<br>");
         contador++;
     }
