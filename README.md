@@ -20,3 +20,9 @@ Este es un juego de **Amigo Secreto** implementado en JavaScript usando el **DOM
    
 3. **Mira el resultado:**
    - El nombre del amigo secreto seleccionado será mostrado en la página.
+
+## Video de Funcionalidades
+
+
+https://github.com/user-attachments/assets/54f8f762-d52f-4554-8c60-8d4e31366913
+
