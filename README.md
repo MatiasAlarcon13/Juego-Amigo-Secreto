@@ -7,7 +7,10 @@ Este es un juego de **Amigo Secreto** implementado en JavaScript usando el **DOM
 - Los usuarios pueden ingresar sus nombres en un campo de texto.
 - Al presionar un botón, el juego selecciona aleatoriamente un "amigo secreto" entre los participantes.
 - El nombre del amigo secreto seleccionado se muestra de color verde y oculta el nombre de los otros participantes.
+- Todo nombre ingresado se convertira el primer caracter en mayuscula y el resto en minusculas.
 - Si no hay ningun amigo secreto para sortear, se muestra un mensaje de advertencia.
+- Si el campo esta vacio y se apreta añadir, se muestra un mensaje de advertencia.
+- Si se intenta añadir nombres Repetidos, se muestra un mensaje de advertencia.
 
 
 ## Instrucciones
